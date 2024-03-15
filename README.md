@@ -1,1 +1,1 @@
-# Capstone-Project
+# Blooger - App
